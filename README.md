@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Artem Ruzaev | 🎓 Humber College
+
+🌐 Web Development Enthusiast | 💻 HTML, CSS, JS
+
+Crafting user-centric web experiences at Humber College. Let's connect and code the future!
+
+#WebDev #HumberStudent #CodeEnthusiast
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aruzaev)](https://git.io/streak-stats)
 
