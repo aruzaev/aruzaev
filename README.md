@@ -4,8 +4,6 @@
 
 Crafting user-centric web experiences at Humber College. Let's connect and code the future!
 
-#WebDev #HumberStudent #CodeEnthusiast
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aruzaev)](https://git.io/streak-stats)
 
 <!--
